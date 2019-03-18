@@ -1,5 +1,5 @@
 # RubyWebScrapping  
-##Command in prompt:  
+## Command in prompt:  
 
     ruby script/script.rb [url] [output_file]  
     
